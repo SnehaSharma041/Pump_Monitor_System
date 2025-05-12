@@ -1,4 +1,4 @@
-#  Pump Monitoring and History Management System
+![image](https://github.com/user-attachments/assets/3c2d0e25-3dbe-485e-9a5a-42112e303ef0)#  Pump Monitoring and History Management System
 
 An Android-based application developed during an internship at **APDCL Datacenter**, this project replaces traditional paper-based pump logbooks with a digital system that ensures transparent tracking, real-time updates, and better resource management. The system supports manual logging of pump activities, improving efficiency, reducing errors, and streamlining history management.
 
@@ -142,7 +142,7 @@ This project is intended for internal use within APDCL. All rights reserved.
 |-------------------|-------------------------------|------------------|------------------|
 | Pragyan Kalita | pragyankalita137004@gmail.com |   | [LinkedIn]() |
 | Sneha Sharma      | snehasnehasharma0918@gmail.com| SnehaSharma041  | [LinkedIn](www.linkedin.com/in/sneha-sharma-90012b296) |
-| Swayam Biyala   |  swayamsharma2712@gmail.com |    | [LinkedIn]() |
+| Swayam Biyala   |  swayamsharma2712@gmail.com | SSwayamM | [LinkedIn]() |
 | Prastab Raaj Singha    | prastabraaj1234@gmail.com|  | [LinkedIn]() |
 
 
