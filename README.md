@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c2d0e25-3dbe-485e-9a5a-42112e303ef0)#  Pump Monitoring and History Management System
+#  Pump Monitoring and History Management System
 
 An Android-based application developed during an internship at **APDCL Datacenter**, this project replaces traditional paper-based pump logbooks with a digital system that ensures transparent tracking, real-time updates, and better resource management. The system supports manual logging of pump activities, improving efficiency, reducing errors, and streamlining history management.
 
